@@ -1,3 +1,6 @@
+# ANXCamera
+$(call inherit-product, vendor/ANXCamera/anx-vendor.mk)
+
 # Gboard side padding
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.ime.kb_pad_port_l=4 \
