@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_label">ANXກ້ອງຖ່າຍຮູບ</string>
+    <string name="video_camera_label">ANXກ້ອງຖ່າຍວິດີໂອ</string>
+</resources>
